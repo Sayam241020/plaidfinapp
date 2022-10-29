@@ -1,4 +1,4 @@
-# Images for better Visualization of project
+# Images
 
 **HomePage**
 
