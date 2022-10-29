@@ -1,0 +1,1 @@
+web gunicorn plaid_django.wsgi:application --log-file -
