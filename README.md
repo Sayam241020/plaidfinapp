@@ -1,13 +1,5 @@
 # Images for better Visualization of project
 
-**Signup Page**
-
-![](images/Signup.png)
-
-**Login Page**
-
-![](images/Login.png)
-
 **HomePage**
 
 ![](images/Home.png)
