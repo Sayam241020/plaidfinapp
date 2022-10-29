@@ -1,9 +1,9 @@
 import os
 
 # Fill in your Plaid API keys - https://dashboard.plaid.com/account/keys
-PLAID_CLIENT_ID = os.getenv('PLAID_CLIENT_ID')
-PLAID_SECRET = os.getenv('PLAID_SECRET')
-PLAID_PUBLIC_KEY = os.getenv('PLAID_PUBLIC_KEY')
+PLAID_CLIENT_ID = os.getenv('635cdacd5c59910012635ef7')
+PLAID_SECRET = os.getenv('6c8488b5ac7e9395caff2473ab3474')
+PLAID_PUBLIC_KEY = os.getenv('6c8488b5ac7e9395caff2473ab3474')
 # Use 'sandbox' to test with Plaid's Sandbox environment (username: user_good,
 # password: pass_good)
 # Use `development` to test with live users and credentials and `production`
